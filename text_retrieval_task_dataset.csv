@@ -1,0 +1,6 @@
+id,text,category,length,sentiment
+1,The quick brown fox jumps over the lazy dog,animals,43,neutral
+2,A journey of a thousand miles begins with a single step,inspirational,54,positive
+3,"To be or not to be, that is the question",literature,37,neutral
+4,I have a dream that one day this nation will rise up,historical,48,positive
+5,The only thing we have to fear is fear itself,inspirational,44,neutral
